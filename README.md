@@ -1,5 +1,5 @@
 # Customer-Segmentation-Retail-Marketing
-Customer segmentation project on retail marketing data, focusing on demographics, purchase recency, spending patterns across product categories, and engagement activity. The analysis uncovers distinct customer groups and delivers actionable insights to drive personalized marketing, improve retention, and maximize ROI.
+
 # 📌 Project Overview
 Customer segmentation is a key application of data analytics in marketing. By grouping customers based on their demographics, spending patterns, and engagement behavior, businesses can design more personalized and effective strategies.
 In this project, we apply K-Means clustering to a retail marketing dataset to uncover distinct customer segments. The dataset includes:
