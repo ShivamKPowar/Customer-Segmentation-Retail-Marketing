@@ -40,6 +40,7 @@ In this project, we apply K-Means clustering to a retail marketing dataset to un
 - Cluster 1: High-income, high-value loyalists
 - Cluster 2: Middle-income, selective buyers
 - Cluster 3: Upper-middle-class, balanced shoppers
+
 🔹 These insights enable data-driven marketing strategies, such as:
 - Rewarding loyal high-spenders
 - Re-engaging inactive customers
